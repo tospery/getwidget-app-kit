@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:getwidget/getwidget.dart';
 import 'package:flutter/cupertino.dart';
-import 'dart:async';
 
 class Toasts extends StatefulWidget {
   @override
