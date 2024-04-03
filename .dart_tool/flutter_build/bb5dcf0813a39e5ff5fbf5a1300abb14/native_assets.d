@@ -1,0 +1,1 @@
+ /Users/yangjx/project/getwidget-app-kit/.dart_tool/flutter_build/bb5dcf0813a39e5ff5fbf5a1300abb14/native_assets.yaml: 

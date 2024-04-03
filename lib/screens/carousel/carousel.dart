@@ -121,7 +121,7 @@ class _CarouselState extends State<Carousel>
                         ),
                         GFCarousel(
                           autoPlay: true,
-                          pagination: true,
+                          hasPagination: true,
                           viewportFraction: 1.0,
                           activeIndicator: GFColors.SUCCESS,
                           passiveIndicator: GFColors.DARK,
@@ -237,7 +237,7 @@ class _CarouselState extends State<Carousel>
                         ),
                         GFCarousel(
                           autoPlay: true,
-                          pagination: true,
+                          hasPagination: true,
                           viewportFraction: 1.0,
                           activeIndicator: GFColors.SUCCESS,
                           passiveIndicator: GFColors.WHITE,
@@ -308,7 +308,7 @@ class _CarouselState extends State<Carousel>
                         ),
                         GFCarousel(
                           autoPlay: true,
-                          pagination: true,
+                          hasPagination: true,
                           viewportFraction: 1.0,
                           activeIndicator: GFColors.SUCCESS,
                           passiveIndicator: GFColors.DARK,
@@ -420,7 +420,7 @@ class _CarouselState extends State<Carousel>
                         ),
                         GFCarousel(
                           autoPlay: true,
-                          pagination: true,
+                          hasPagination: true,
                           viewportFraction: 1.0,
                           activeIndicator: GFColors.SUCCESS,
                           passiveIndicator: GFColors.WHITE,
